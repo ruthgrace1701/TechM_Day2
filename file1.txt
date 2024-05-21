@@ -1,2 +1,3 @@
 Hello 
 This is new file for contact details.
+new contact was added.
